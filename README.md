@@ -1,5 +1,110 @@
-# 💫 About Me:
-# Krishna ⚡<br><br>System Designer | Fullstack Engineer | SaaS Builder  <br><br>---<br><br>## 🚀 About Me<br><br>I design and build **high-performance, scalable systems** with a strong focus on backend architecture, distributed systems, and real-world production challenges.<br><br>Currently building a next-gen scheduling platform focused on **performance, scalability, and global availability**.<br><br>---<br><br>## 🔥 Current Project<br><br>### 🚀 ZynMeet (Scheduling Platform)<br>- High-performance booking & scheduling system<br>- Real-time availability engine<br>- Google Calendar integration (auto event + meet link generation)<br>- Multi-region ready architecture<br>- Designed for scale and reliability<br><br>> Core codebase is private. Architecture and system design available on request.<br><br>---<br><br>## 🧠 Tech Stack<br><br>### ⚙️ Backend & Systems<br>- Golang (Gin, high-performance APIs)<br>- Node.js (MERN, Fastify, Express)<br>- Prisma ORM<br>- REST APIs + system design patterns<br>- Rust (learning → performance & systems-level programming)<br><br>### 🌐 Frontend<br>- React.js<br>- Next.js<br>- Tailwind<br>- Shadcn<br>- React Query and redux<br><br>### ☁️ Infrastructure & DevOps<br>- Kubernetes (GKE multi-region)<br>- Docker<br>- NGINX (Ingress, load balancing)<br>- CI/CD pipelines<br><br>### 🗄️ Databases & Messaging<br>- PostgreSQL (primary relational DB)<br>- MongoDB<br>- Redis (caching, distributed locks)<br>- RabbitMQ (event-driven architecture)<br><br>---<br><br>## 🧩 System Design & Engineering Focus<br><br>- Distributed systems architecture<br>- Horizontal scaling & load balancing<br>- Redis-based distributed locking (Lua scripting)<br>- Event-driven systems using RabbitMQ<br>- API performance optimization<br>- Multi-region deployments & latency-based routing<br>- Secure integrations (OAuth, external APIs)<br><br>---<br><br>## 🔒 Private Builds<br><br>### 🚀 ZynMeet Platform<br>- Scalable SaaS backend (Golang + Node.js hybrid architecture)<br>- Booking engine with concurrency-safe scheduling<br>- Google Calendar sync with automatic meeting link generation<br>- Prisma + PostgreSQL data modeling<br>- Redis caching & locking for race condition handling<br>- Fault-tolerant system design<br><br>> Code is private, but architecture reflects production-grade engineering.<br><br>---<br><br>## 🛠️ Selected Public Work (Planned / In Progress)<br><br>- 🔧 Redis Distributed Lock (Lua-based atomic locking)<br>- ⚡ High-performance Booking API (Golang)<br>- 🌍 Kubernetes Multi-region Deployment Setup<br><br>---<br><br>## ⚡ Engineering Principles<br><br>- Performance > Everything  <br>- Design for scale from day one  <br>- Build production-ready systems (not demos)  <br>- Simplicity + reliability > unnecessary complexity  <br><br>---<br><br>## 📈 Vision<br><br>Building globally scalable SaaS products and growing towards **system architecture / CTO-level engineering**.<br><br>---<br><br>## 📫 Connect<br><br>- GitHub: https://github.com/krishnaxsys  <br>- Product: (Soon With working ZynMeet live) : https://www.zynmeet.com<br><br>---<br><br>> "Build systems that scale, not just code that works."
+Krishna
+
+System Designer • Full Stack Engineer • SaaS Builder
+
+---
+
+I design and build high-performance, scalable systems with a strong focus on backend architecture, distributed systems, and real-world production challenges.
+
+Currently building a next-generation scheduling platform focused on performance, scalability, and global availability.
+
+---
+
+Current Work
+
+ZynMeet — Scheduling Platform  
+• High-performance booking & scheduling system  
+• Real-time availability engine  
+• Google Calendar integration (auto event + meet link generation)  
+• Multi-region ready architecture  
+• Designed for scale and reliability  
+
+Core codebase is private. Architecture available on request.
+
+---
+
+Stack
+
+Backend & Systems  
+Golang (Gin), Node.js (Express, Fastify), Prisma  
+Distributed systems, REST APIs, system design  
+
+Frontend  
+React, Next.js, Tailwind, Shadcn  
+
+Infrastructure  
+Kubernetes (multi-region), Docker, NGINX, CI/CD  
+
+Databases & Messaging  
+PostgreSQL, MongoDB, Redis, RabbitMQ  
+
+---
+
+System Design Focus
+
+• Distributed systems architecture  
+• Horizontal scaling & load balancing  
+• Redis-based distributed locking (Lua)  
+• Event-driven systems (RabbitMQ)  
+• API performance optimization  
+• Multi-region deployments & latency routing  
+• Secure integrations (OAuth, external APIs)  
+
+---
+
+Private Builds
+
+ZynMeet Platform  
+• Scalable SaaS backend (Golang + Node.js hybrid)  
+• Concurrency-safe booking engine  
+• Google Calendar sync with automatic meeting links  
+• Redis locking for race condition handling  
+• Fault-tolerant system design  
+
+Other Systems  
+• Built enterprise-grade food ordering platform (Swiggy/Zomato level) from scratch  
+
+---
+
+Notes
+
+Not all work is public.
+
+---
+
+Rust
+
+Building high-performance systems in Rust.
+
+• Developed Zynfile — a file manager focused on extreme performance  
+• Outperforms File Explorer, Filepilot, and similar tools in copy/paste and core operations  
+• Focused on low-level optimization and system efficiency  
+
+---
+
+Engineering Principles
+
+• Performance over everything  
+• Design for scale from day one  
+• Build for production, not demos  
+• Reliability and simplicity over unnecessary complexity  
+
+---
+
+Vision
+
+Building globally scalable SaaS products and operating at system architecture / CTO-level engineering.
+
+---
+
+Connect
+
+• GitHub: https://github.com/krishnaxsys  
+• Product: (Soon — with working ZynMeet live): https://www.zynmeet.com  
+
+---
+
+"Build systems that scale, not just code that works."
 
 
 # 💻 Tech Stack:
