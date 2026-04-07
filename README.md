@@ -41,7 +41,10 @@
   <br><br>
 </div>
 
-### 🏗️ ENTERPRISE & OPEN SOURCE PORTFOLIO
+### 🏗️ CORE SYSTEMS ARCHITECTURE
+
+> **[ CLASSIFIED DATA / CLOSED SOURCE ]** <br>
+> *Both **ZynMeet** and **Zynfile**, along with my enterprise-level engineering (like a Swiggy/Zomato food ordering system built from scratch)—reside in **private repositories**. System architecture schemas and deeper technical walkthroughs are available upon request for authorized inquiries.*
 
 <table width="100%">
   <tr>
@@ -67,17 +70,14 @@
   </tr>
 </table>
 
-> **[ CLASSIFIED DATA ]** <br>
-> *Most of my core engineering—including a Swiggy/Zomato enterprise-level food ordering system built from scratch—resides in **private repositories**. System architecture schemas are available upon request for authorized inquiries.*
-
 ### 📈 METRICS & THROUGHPUT
 
 <div align="center">
   <a href="https://github.com/krishnaxsys">
-    <img src="https://github-readme-stats.vercel.app/api?username=krishnaxsys&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" height="192" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=krishnaxsys&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" height="192" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/krishnaxsys">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaxsys&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" height="192" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krishnaxsys&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117" height="192" alt="Top Languages" />
   </a>
 </div>
 
