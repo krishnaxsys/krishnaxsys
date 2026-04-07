@@ -137,9 +137,6 @@ I am a system builder focused on high-performance backends and scalable SaaS arc
 
 <div align="center">
   <a href="https://github.com/krishnaxsys">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=krishnaxsys&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&bg_color=0D1117&show_icons=true" height="192" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/krishnaxsys">
     <img src="https://streak-stats.demolab.com/?user=krishnaxsys&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&stroke=58A6FF" height="192" alt="GitHub Streak" />
   </a>
 </div>
