@@ -8,7 +8,7 @@
 
 <h3 align="center">⚡ ABOUT ME</h3>
 <p align="center"><i>
-I am a system builder focused on high-performance backends and scalable SaaS architecture. From bare-metal Rust optimizations to multi-tenant microservices, I enjoy tackling complex architectural challenges and building reliable, production-ready systems.
+I am a Full stack system builder focused on high-performance backends and scalable SaaS architecture. From bare-metal Rust optimizations to multi-tenant microservices, I enjoy tackling complex architectural challenges and building reliable, production-ready systems.
 </i></p>
 
 <br/>
