@@ -122,7 +122,7 @@ I am a Full stack system builder focused on high-performance backends and scalab
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h2>🦀 Zynfile</h2>
+      <h2>🦀 Zynfile (Beta)</h2>
       <i>Extreme Performance File Manager</i><br>
       <ul>
         <li><b>Rust-powered</b> for bare-metal execution speed.</li>
